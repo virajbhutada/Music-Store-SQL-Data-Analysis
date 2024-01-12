@@ -116,6 +116,12 @@ Gain insights into the intricate architecture of the music store database with t
 
 ---
 
+# [<img src="https://img.shields.io/badge/Canva%20Presentation-%23000000?logo=canva" alt="Music Store Analysis" style="width: 300px;"/>](https://www.canva.com/design/DAF5jd89VRE/lSrJqG8TAIZB5U8iql64_A/view?utm_content=DAF5jd89VRE&utm_campaign=designshare&utm_medium=link&utm_source=editor) 
+
+Explore the visual representation of the project on Canva for a comprehensive overview. Discover the project's key insights, achievements, and visual elements in a user-friendly Canva presentation, providing an additional layer of understanding and engagement. 
+
+---
+
 ## Contributions
 
 Contributions are warmly welcomed! If you encounter any issues or have ideas for improvement, kindly open an issue or submit a pull request.
