@@ -1,8 +1,6 @@
 # Music-Store-SQL-Data-Analysis
 
-**<a href="https://youtu.be/V9R3Faj-3dE">
-  <img src="https://img.shields.io/badge/Watch%20on%20YouTube-%23FF0000?logo=youtube" alt="Watch on YouTube" style="width: 165px; height: 25px;">
-</a>**
+**[![Watch on YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-%23FF0000?logo=youtube)](https://youtu.be/V9R3Faj-3dE)**
 
 ---
 
