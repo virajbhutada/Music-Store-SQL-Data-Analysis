@@ -2,10 +2,13 @@
 
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-%23FF0000?logo=youtube)](https://youtu.be/yqEzHWVEIvk)
 
+---
+
 ## Overview
 
 Commence a comprehensive exploration of online music stores with this advanced SQL project. Leveraging the capabilities of PostgreSQL and PgAdmin4, this hands-on analysis is crafted to unveil the intricacies of the provided music dataset. Gain valuable insights, address pivotal questions, and contribute to a profound understanding of business growth within the dynamic music sector. As you navigate through the dataset's intricacies, discover actionable strategies to optimize operations, enhance user experiences, and stay ahead in the evolving landscape of the music industry.
 
+---
 
 ## Objective
 
@@ -38,9 +41,13 @@ Uncover nuanced patterns in the music dataset, addressing business challenges, a
 
 Translate insights into actionable strategies, empowering the music store with a scalable solution aligned with real-world business needs. These practical implications aim to enhance operational efficiency, customer satisfaction, and revenue streams, providing tangible benefits to the business.
 
+---
+
 ## Future Prospects
 
 Leverage the gained insights for ongoing improvements, adeptly adapting to evolving market dynamics and maintaining a competitive edge. The strategic application of these insights positions the music store for sustained success, ensuring it remains responsive to industry changes and continues to thrive.
+
+---
 
 ## Project Structure
 
