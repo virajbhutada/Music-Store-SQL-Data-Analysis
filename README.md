@@ -1,6 +1,6 @@
 # Music-Store-SQL-Data-Analysis
 
-[![Watch on YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-%23FF0000?logo=youtube)](https://youtu.be/yqEzHWVEIvk)
+**[![Watch on YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-%23FF0000?logo=youtube)](https://youtu.be/V9R3Faj-3dE)**
 
 ---
 
@@ -100,7 +100,7 @@ A visual representation of the database structure comprising tables such as 'art
 
 ## Project Resources
 
-- [**Watch the Video Tutorial**](https://youtu.be/yqEzHWVEIvk)
+- [**Watch the Video Tutorial**](https://youtu.be/V9R3Faj-3dE)
 - [**GitHub Repository**](https://github.com/virajbhutada/Music-Store-SQL-Data-Analysis)
 - [**Download Project Data**](https://github.com/virajbhutada/Music-Store-SQL-Data-Analysis/tree/main/data)
 
