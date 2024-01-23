@@ -130,4 +130,4 @@ Contributions are warmly welcomed! If you encounter any issues or have ideas for
 
 ## Connect with Me
 
-- LinkedIn: [Viraj Bhutada](https://www.linkedin.com/in/virajnbhutada24/)
+- ## LinkedIn: [Viraj Bhutada](https://www.linkedin.com/in/virajnbhutada24/)
