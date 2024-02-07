@@ -53,10 +53,11 @@ Leverage the gained insights for ongoing improvements, adeptly adapting to evolv
 
 ## Project Structure
 
-- **`queries/`:** Contains SQL query files organized by difficulty levels (Easy, Moderate, Advanced).
+- **`assets/`:** Includes any additional assets like images, diagrams, or supplementary files.
+- **`data/`:** Contains the dataset used for the analysis, including tables such as `albums`, `artists`, `customers`, `invoices`, `tracks`, etc.
 - **`database/`:** Holds the SQL file with the database schema and relevant data.
+- **`queries/`:** Contains SQL query files organized by difficulty levels (Easy, Moderate, Advanced).
 - **`reports/`:** Stores project reports, including PDF files and documentation.
-- **`assets/`:** Includes any additional assets like images or diagrams.
 
 ---
 
