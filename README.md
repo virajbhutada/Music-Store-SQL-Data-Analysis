@@ -1,4 +1,4 @@
-# Music-Store-SQL-Data-Analysis
+# Music Store Data Analysis using PostgreSQL
 
 **<a href="https://youtu.be/V9R3Faj-3dE">
   <img src="https://img.shields.io/badge/Watch%20on%20YouTube-%23FF0000?logo=youtube" alt="Watch on YouTube" style="width: 165px; height: 25px;">
