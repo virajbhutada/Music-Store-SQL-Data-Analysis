@@ -1,4 +1,4 @@
-# Music Store Data Analysis using PostgreSQL
+# Music Store Data Analysis using SQL
 
 
 <div align="center">
